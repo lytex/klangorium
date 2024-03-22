@@ -1466,6 +1466,7 @@
 	(hierarchical_label "2B"
 		(shape output)
 		(at 161.29 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1477,6 +1478,7 @@
 	(hierarchical_label "4A"
 		(shape output)
 		(at 161.29 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1488,6 +1490,7 @@
 	(hierarchical_label "ClockB"
 		(shape input)
 		(at 119.38 87.63 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1499,6 +1502,7 @@
 	(hierarchical_label "ResetA"
 		(shape input)
 		(at 121.92 64.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1510,6 +1514,7 @@
 	(hierarchical_label "DataB"
 		(shape input)
 		(at 121.92 85.09 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1521,6 +1526,7 @@
 	(hierarchical_label "4B"
 		(shape output)
 		(at 161.29 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1532,6 +1538,7 @@
 	(hierarchical_label "1B"
 		(shape output)
 		(at 161.29 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1543,6 +1550,7 @@
 	(hierarchical_label "ClockA"
 		(shape input)
 		(at 119.38 62.23 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1554,6 +1562,7 @@
 	(hierarchical_label "DataA"
 		(shape input)
 		(at 121.92 59.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1565,6 +1574,7 @@
 	(hierarchical_label "3A"
 		(shape output)
 		(at 161.29 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1576,6 +1586,7 @@
 	(hierarchical_label "1A"
 		(shape output)
 		(at 161.29 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1587,6 +1598,7 @@
 	(hierarchical_label "3B"
 		(shape output)
 		(at 161.29 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1598,6 +1610,7 @@
 	(hierarchical_label "ResetB"
 		(shape input)
 		(at 121.92 90.17 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1609,6 +1622,7 @@
 	(hierarchical_label "2A"
 		(shape output)
 		(at 161.29 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1660,6 +1674,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 140.97 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CD4015BE"
 			(at 140.97 63.5 0)
 			(effects
 				(font
@@ -1776,6 +1799,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" "CD4015BE"
+			(at 142.24 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "16"
 			(uuid "333e0d36-e05f-447e-aadf-706ac8635ce3")
 		)
@@ -1876,6 +1908,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 124.46 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 124.46 69.85 0)
 			(effects
 				(font
@@ -2013,6 +2054,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 125.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa8f976e-e107-4259-970d-16e54b8a7880")
 		)
@@ -2142,6 +2192,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 120.65 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "957ada53-59ea-466c-a929-722599d57af5")
 		)
@@ -2202,6 +2261,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 147.32 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 147.32 109.22 0)
 			(effects
 				(font
@@ -2344,6 +2412,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 171.45 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84bd469c-e1ba-407f-9941-07a6291fd90a")
 		)
@@ -2476,6 +2553,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 149.86 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fa731cd-56dc-42ef-bafb-57fe24998409")
 		)
@@ -2534,6 +2620,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 109.22 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 109.22 72.39 0)
 			(effects
 				(font
@@ -2608,6 +2703,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 101.6 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b994476e-e23d-4b7c-91f9-9ee629937ad5")
 		)
@@ -2666,6 +2770,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 101.6 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 101.6 66.04 0)
 			(effects
 				(font
@@ -2858,6 +2971,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 93.98 53.34 0)
 			(effects
 				(font

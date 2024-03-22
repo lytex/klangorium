@@ -7663,6 +7663,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 269.24 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c86ea01e-4ff8-4921-9caa-a84bca28f082")
 		)
@@ -7731,6 +7740,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 276.86 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "246a7f90-c017-41d7-ae31-7d63d0aad6a4")
 		)
@@ -7789,6 +7807,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 67.31 38.1 0)
 			(effects
 				(font
@@ -7885,6 +7912,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 144.78 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 144.78 166.37 0)
 			(effects
 				(font
@@ -8013,6 +8049,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 125.73 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d2efcbb-979a-4cbf-8e32-f6c023ab0a82")
 		)
@@ -8097,6 +8142,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 125.73 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b8582fe-d389-474a-b762-fd7406de2f95")
 		)
@@ -8173,6 +8227,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 190.5 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 190.5 96.52 0)
 			(effects
 				(font
@@ -8289,6 +8352,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 95.25 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae84105a-c485-46bd-afd4-27cf29738bce")
 		)
@@ -8359,6 +8431,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 26.67 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 26.67 34.29 0)
 			(effects
 				(font
@@ -8445,6 +8526,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 26.67 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e785003-a5f4-4993-aea8-c609daac35b5")
 		)
@@ -8523,6 +8613,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 26.67 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38159d36-aaf3-4a80-84ee-f119656f6571")
 		)
@@ -8581,6 +8680,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 26.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 26.67 123.19 0)
 			(effects
 				(font
@@ -8655,6 +8763,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 26.67 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1fcd7346-1690-4d00-9673-89c61d7298d9")
 		)
@@ -8713,6 +8830,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 26.67 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 26.67 135.89 0)
 			(effects
 				(font
@@ -8787,6 +8913,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 53.34 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a1c29ffd-efe9-4aa5-bf38-b15c4094b4cd")
 		)
@@ -8845,6 +8980,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 53.34 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 53.34 125.73 0)
 			(effects
 				(font
@@ -8919,6 +9063,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9dde9b12-335f-4092-b630-f4d79fd375ef")
 		)
@@ -8985,6 +9138,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 113.03 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5eded87b-756c-4a2f-b78d-ce5ec418956d")
 		)
@@ -9043,6 +9205,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 26.67 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 26.67 71.12 0)
 			(effects
 				(font
@@ -9129,6 +9300,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 24.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "afd0cf56-67dd-4c1f-ac85-292e5a6fd7a7")
 		)
@@ -9207,6 +9387,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 92.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a45db95-42d2-4c18-beb2-efbf44327cdf")
 		)
@@ -9265,6 +9454,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 105.41 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 105.41 162.56 0)
 			(effects
 				(font
@@ -9342,6 +9540,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 92.71 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a0b56af-e232-484f-a8bd-5c6a54110234")
 		)
@@ -9411,6 +9618,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 92.71 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa312e2e-5088-4e2a-a854-e9e5ed45e6ec")
 		)
@@ -9472,6 +9688,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 161.29 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 161.29 87.63 0)
 			(effects
 				(font
@@ -9681,6 +9906,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 200.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3163f6d5-ac32-48eb-8c25-57eecfde544a")
 		)
@@ -9739,6 +9973,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 175.26 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 175.26 43.18 0)
 			(effects
 				(font
@@ -9834,6 +10077,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 175.26 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68b8e0a8-e4ad-44a2-88a1-6e2262ba6320")
 		)
@@ -9913,6 +10165,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 175.26 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 175.26 27.94 0)
 			(effects
 				(font
@@ -10005,6 +10266,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 175.26 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ba2ad666-1ad2-4260-9b09-ef0b18b7b348")
 		)
@@ -10089,6 +10359,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 210.82 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef3fea6d-ca2d-468a-a12d-f4ba017d7fd4")
 		)
@@ -10161,6 +10440,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 257.81 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da00ba88-2bc7-418e-970e-7359f8347982")
 		)
@@ -10219,6 +10507,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 254 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 254 68.58 0)
 			(effects
 				(font
@@ -10368,6 +10665,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 123.19 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2cb8a298-cce3-4680-8243-c4e0d1ee1f02")
 		)
@@ -10500,6 +10806,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 196.85 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fee7a319-1c87-425c-ad86-8737598a0651")
 		)
@@ -10564,6 +10879,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 257.81 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 257.81 41.91 0)
 			(effects
 				(font
@@ -10644,6 +10968,15 @@
 				(hide yes)
 			)
 		)
+		(property "manf#" ""
+			(at 257.81 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "83c01e3f-0a7d-4823-8c66-6ba70d5f0693")
 		)
@@ -10702,6 +11035,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 210.82 113.03 0)
 			(effects
 				(font
@@ -10774,6 +11116,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 210.82 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" ""
 			(at 210.82 129.54 0)
 			(effects
 				(font
