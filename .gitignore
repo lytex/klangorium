@@ -1,4 +1,5 @@
-kicad/fp-info-cache
+*.DS_STORE
+
 kicad/logic_noise_playground-backups/
-kicad/logic_noise_playground.kicad_prl
-kicad/logic_noise_playground.kicad_pro
+
+kicad/rescue-backup/

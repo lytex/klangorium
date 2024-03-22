@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "logic_noise_playground-rescue")(type "Legacy")(uri "${KIPRJMOD}/logic_noise_playground-rescue.lib")(options "")(descr ""))
+)
