@@ -1041,7 +1041,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C7"
-			(at 0.254 -2.286 0)
+			(at -3.79 -0.01 0)
 			(layer "F.SilkS")
 			(uuid "79ec89fc-97cb-4a30-af4e-db1c72157605")
 			(effects
@@ -1188,7 +1188,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C8"
-			(at 0.254 -2.286 0)
+			(at -3.9 0 0)
 			(layer "F.SilkS")
 			(uuid "6d953499-95c4-4502-a99c-927c09aff1a8")
 			(effects
@@ -1335,7 +1335,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C9"
-			(at 0.254 -2.286 0)
+			(at -3.83 -0.01 0)
 			(layer "F.SilkS")
 			(uuid "45c5e36c-f2ea-4870-9ef4-8d3eb785af0e")
 			(effects
@@ -1923,7 +1923,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C13"
-			(at 0.254 -2.286 180)
+			(at -0.01 1.94 180)
 			(layer "F.SilkS")
 			(uuid "aa5bed93-af5a-4e3c-ae21-d5eb47786bf7")
 			(effects
@@ -2217,7 +2217,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C16"
-			(at 0.254 -2.286 0)
+			(at 4.11 0 0)
 			(layer "F.SilkS")
 			(uuid "48775e7d-2b8d-4fe1-ad97-cfbf52f47ea2")
 			(effects
@@ -2364,7 +2364,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D1"
-			(at 0 2.54 0)
+			(at 0.02 -0.02 0)
 			(layer "F.SilkS")
 			(uuid "2a2acd2e-ca1f-4782-beff-88758632e193")
 			(effects
@@ -2551,7 +2551,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D2"
-			(at 0 2.54 0)
+			(at 0.01 0.01 0)
 			(layer "F.SilkS")
 			(uuid "95d0ad05-a727-44ab-b795-03a7aa19976a")
 			(effects
@@ -2738,7 +2738,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D3"
-			(at 0 2.54 0)
+			(at -0.11 0.03 0)
 			(layer "F.SilkS")
 			(uuid "6de2c941-3800-4fd2-b4ad-be7b78d52262")
 			(effects
@@ -2925,7 +2925,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D4"
-			(at 0 2.54 0)
+			(at 0 -0.03 0)
 			(layer "F.SilkS")
 			(uuid "37bff9a7-e75d-4a76-bd7e-4e1de2c005a7")
 			(effects
@@ -3112,7 +3112,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D8"
-			(at 0 2.54 0)
+			(at -0.08 0.01 0)
 			(layer "F.SilkS")
 			(uuid "e055c5f5-0074-4e86-b582-ed01c037447f")
 			(effects
@@ -3299,7 +3299,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D9"
-			(at 0 2.54 0)
+			(at -0.16 0.02 0)
 			(layer "F.SilkS")
 			(uuid "aad8f7d1-be46-4654-939b-2be7372abd0b")
 			(effects
@@ -5215,7 +5215,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R3"
-			(at 0.24892 -3.50012 0)
+			(at -0.17 -0.11 0)
 			(layer "F.SilkS")
 			(uuid "e52a9897-e776-4727-8c68-b9214f5bf23b")
 			(effects
@@ -5372,7 +5372,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R4"
-			(at 0.24892 -3.50012 180)
+			(at 0.1 -0.01 180)
 			(layer "F.SilkS")
 			(uuid "0f372e0e-3199-4f4c-a1e4-0ef3fe39533e")
 			(effects
@@ -5529,7 +5529,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R5"
-			(at 0.24892 -3.50012 180)
+			(at 0 0 180)
 			(layer "F.SilkS")
 			(uuid "40f30f64-c392-40b6-aa2f-dc05b5d6aeab")
 			(effects
@@ -6000,7 +6000,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R8"
-			(at 0.24892 -3.50012 180)
+			(at 0 0 180)
 			(layer "F.SilkS")
 			(uuid "d0d757d4-dee1-4c20-9127-5612abae19ea")
 			(effects
@@ -6157,7 +6157,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R9"
-			(at 0.24892 -3.50012 180)
+			(at 0 0 180)
 			(layer "F.SilkS")
 			(uuid "47508ce3-422b-479d-b368-a4e9223029cd")
 			(effects
@@ -7104,7 +7104,7 @@
 		(descr "14 pins DIL package, elliptical pads")
 		(tags "DIL")
 		(property "Reference" "U1"
-			(at -5.08 -1.27 180)
+			(at -9.9 -3.6 180)
 			(layer "F.SilkS")
 			(uuid "1f84339f-0fd3-477d-a059-1af3d6dd4a0d")
 			(effects
@@ -7654,7 +7654,7 @@
 		(descr "14 pins DIL package, elliptical pads")
 		(tags "DIL")
 		(property "Reference" "U3"
-			(at -5.08 -1.27 -90)
+			(at -9.78 -3.85 0)
 			(layer "F.SilkS")
 			(uuid "5f7174a7-aa39-4a73-90fa-2a0dd1e0ce9f")
 			(effects
@@ -8507,7 +8507,7 @@
 		(descr "16 pins DIL package, elliptical pads")
 		(tags "DIL")
 		(property "Reference" "U6"
-			(at -6.35 -1.27 180)
+			(at -11.18 -3.49 180)
 			(layer "F.SilkS")
 			(uuid "9fb4811b-e936-4325-b610-a2a1da108d39")
 			(effects
@@ -9111,7 +9111,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D14"
-			(at 0 2.54 0)
+			(at -0.04 0.04 0)
 			(layer "F.SilkS")
 			(uuid "5118d75b-5b88-4758-9bcf-f2711ad37203")
 			(effects
@@ -9297,7 +9297,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D15"
-			(at 0 2.54 0)
+			(at -0.01 0.04 0)
 			(layer "F.SilkS")
 			(uuid "b31d4233-0bb8-4ea6-8c4e-78b8ff0ccea1")
 			(effects
@@ -10847,7 +10847,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D16"
-			(at 0 2.54 0)
+			(at -0.105 0.085 0)
 			(layer "F.SilkS")
 			(uuid "4ea39484-f84b-4b5c-80af-6fb53f6280fc")
 			(effects
@@ -11033,7 +11033,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D17"
-			(at 0 2.54 0)
+			(at -0.105 0.045 0)
 			(layer "F.SilkS")
 			(uuid "47e51f0c-36aa-413d-b796-4cc6fe203b47")
 			(effects
@@ -11219,7 +11219,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R14"
-			(at 0.24892 -3.50012 180)
+			(at 0.01 0.06 180)
 			(layer "F.SilkS")
 			(uuid "83b570a0-a268-418e-9fdb-7ffd3b96a852")
 			(effects
@@ -11375,7 +11375,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R15"
-			(at 0.24892 -3.50012 180)
+			(at 0.01 0.01 180)
 			(layer "F.SilkS")
 			(uuid "cd88706b-dc64-4467-af30-fde08810bf0c")
 			(effects
@@ -11531,7 +11531,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R16"
-			(at 0.24892 -3.50012 180)
+			(at 0.26 -0.05 180)
 			(layer "F.SilkS")
 			(uuid "977e8bf7-e883-467d-b671-acf15854dfb2")
 			(effects
@@ -12155,7 +12155,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R20"
-			(at 0.24892 -3.50012 180)
+			(at 0.065 -0.015 180)
 			(layer "F.SilkS")
 			(uuid "ebb27d75-3a2a-4cdd-b525-e05a65e8ba49")
 			(effects
@@ -12311,7 +12311,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R21"
-			(at 0.24892 -3.50012 0)
+			(at -0.195 -0.175 0)
 			(layer "F.SilkS")
 			(uuid "a42b111b-2943-4b74-9bdc-cd00737371f5")
 			(effects
@@ -12748,7 +12748,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C23"
-			(at 0.254 -2.286 180)
+			(at -4.19 -0.07 180)
 			(layer "F.SilkS")
 			(uuid "5d659665-8a73-40df-8754-cb22cd0ed149")
 			(effects
@@ -12894,7 +12894,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C24"
-			(at 0.254 -2.286 90)
+			(at -3.57 0.04 180)
 			(layer "F.SilkS")
 			(uuid "4d2a38f2-0ee0-418e-8f44-e41a966149ae")
 			(effects
@@ -13862,7 +13862,7 @@
 		(descr "8 R pack")
 		(tags "R")
 		(property "Reference" "RR1"
-			(at -1.27 -2.794 180)
+			(at -10.41 2.02 180)
 			(layer "F.SilkS")
 			(uuid "f8008191-03a0-44d5-94bf-ceaac3b7d480")
 			(effects
@@ -14280,7 +14280,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P7"
-			(at 0 -5.1 90)
+			(at 0.960001 -2.689999 180)
 			(layer "F.SilkS")
 			(uuid "e21472a5-2572-487f-8dd0-a39c7b296009")
 			(effects
@@ -14540,7 +14540,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P9"
-			(at 0 -5.1 90)
+			(at 1.050001 -2.609999 180)
 			(layer "F.SilkS")
 			(uuid "40ad876d-21be-4db2-8d85-de5455e22a8a")
 			(effects
@@ -14800,7 +14800,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P26"
-			(at 0 -5.1 -90)
+			(at 5.65 -1.76 -90)
 			(layer "F.SilkS")
 			(uuid "929d4a97-84cd-4afd-90ff-cf068d19a908")
 			(effects
@@ -16432,7 +16432,7 @@
 		(uuid "00000000-0000-0000-0000-00005547d809")
 		(at 228.6 134.62 -90)
 		(property "Reference" "J1"
-			(at 0 8.5 -90)
+			(at -6.23 7.95 0)
 			(layer "F.SilkS")
 			(uuid "ec08e6ae-dc60-463d-9769-bfaf05cc6ec0")
 			(effects
@@ -16781,7 +16781,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C14"
-			(at 0.254 -2.286 0)
+			(at 0 -2.01 0)
 			(layer "F.SilkS")
 			(uuid "7bb714e3-6b5a-4ff3-87b0-f930389888a9")
 			(effects
@@ -16927,7 +16927,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C19"
-			(at 0.254 -2.286 0)
+			(at -0.04 -2.06 0)
 			(layer "F.SilkS")
 			(uuid "c94b673b-ceb2-4dfa-adc6-425f61629669")
 			(effects
@@ -17073,7 +17073,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C33"
-			(at 0.254 -2.286 90)
+			(at -4.32 -0.02 90)
 			(layer "F.SilkS")
 			(uuid "13d99b7c-8b58-4cec-92fb-9d0897d415fb")
 			(effects
@@ -17219,7 +17219,7 @@
 		(descr "Condensateur e = 1 pas")
 		(tags "C")
 		(property "Reference" "C34"
-			(at 0.254 -2.286 90)
+			(at -4.17 0.08 90)
 			(layer "F.SilkS")
 			(uuid "c36be8ac-9ce2-41a9-bea4-74c7e7724a9f")
 			(effects
@@ -17365,7 +17365,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D12"
-			(at 0 2.54 0)
+			(at 0.015 -0.025 0)
 			(layer "F.SilkS")
 			(uuid "7136f18e-9021-43df-ad93-5d20e8442a24")
 			(effects
@@ -17551,7 +17551,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D13"
-			(at 0 2.54 0)
+			(at -0.065 0.005 0)
 			(layer "F.SilkS")
 			(uuid "4fdb1510-8e4f-4922-b1a0-209814ab61c6")
 			(effects
@@ -17737,7 +17737,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P2"
-			(at 0 -5.1 -90)
+			(at 2.44 1.46 0)
 			(layer "F.SilkS")
 			(uuid "7c769bff-fa9e-4f48-85b4-f7345629d838")
 			(effects
@@ -18382,7 +18382,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P16"
-			(at 0 -5.1 0)
+			(at -3.39 -0.9 0)
 			(layer "F.SilkS")
 			(uuid "82e1eb32-f4d3-45a0-8c08-091df19eafff")
 			(effects
@@ -18606,7 +18606,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P18"
-			(at 0 -5.1 90)
+			(at 2.35 -0.17 180)
 			(layer "F.SilkS")
 			(uuid "c6988882-4b07-495b-8f68-308d8e14edcc")
 			(effects
@@ -19036,7 +19036,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P20"
-			(at 0 -5.1 90)
+			(at 0.09 15.95 180)
 			(layer "F.SilkS")
 			(uuid "7d7ac5c8-57d5-4dec-9c08-c3e2bdadfd74")
 			(effects
@@ -19690,7 +19690,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P25"
-			(at 0 -5.1 180)
+			(at -3.315 -1.715 180)
 			(layer "F.SilkS")
 			(uuid "3a2e3ccf-cf0e-41ca-8808-90a3a8db6f48")
 			(effects
@@ -20102,7 +20102,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P28"
-			(at 0 -5.1 90)
+			(at -2.1 5.67 180)
 			(layer "F.SilkS")
 			(uuid "3161369b-89df-4f21-892c-7b60b4744b13")
 			(effects
@@ -20308,7 +20308,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P29"
-			(at 0 -5.1 -90)
+			(at 0.02 -3 0)
 			(layer "F.SilkS")
 			(uuid "09577870-049a-4629-8259-14d7fd0fb65b")
 			(effects
@@ -20720,7 +20720,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P31"
-			(at 0 -5.1 -90)
+			(at 0.3 -3.3 0)
 			(layer "F.SilkS")
 			(uuid "fa6763d1-d9d1-47aa-bd11-7a2646665da7")
 			(effects
@@ -21365,7 +21365,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P34"
-			(at 0 -5.1 180)
+			(at -2.47 4.21 -90)
 			(layer "F.SilkS")
 			(uuid "fb0efe27-a903-49f5-8dee-4dcacf6a856f")
 			(effects
@@ -21813,7 +21813,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R23"
-			(at 0.24892 -3.50012 0)
+			(at 0.025 0.025 0)
 			(layer "F.SilkS")
 			(uuid "a26aa9a5-19e4-4e04-8b6f-5f1c63b93cf9")
 			(effects
@@ -21969,7 +21969,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R24"
-			(at 0.24892 -3.50012 180)
+			(at 0.055 0.045 180)
 			(layer "F.SilkS")
 			(uuid "356ac464-2a11-4b5a-8454-480c4f87d69c")
 			(effects
@@ -22441,7 +22441,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D5"
-			(at 0 2.54 0)
+			(at -0.02 0.06 0)
 			(layer "F.SilkS")
 			(uuid "9e5c4350-ec18-428e-b50f-8943e1efde45")
 			(effects
@@ -22627,7 +22627,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D6"
-			(at 0 2.54 0)
+			(at 0.03 0 0)
 			(layer "F.SilkS")
 			(uuid "5cf18752-be94-44ed-a363-2c513ff4bfa7")
 			(effects
@@ -22813,7 +22813,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D7"
-			(at 0 2.54 0)
+			(at -0.03 0.07 0)
 			(layer "F.SilkS")
 			(uuid "084523f5-84ff-4b35-ab1b-2459910d6ff7")
 			(effects
@@ -22999,7 +22999,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D10"
-			(at 0 2.54 0)
+			(at -0.03 0.01 0)
 			(layer "F.SilkS")
 			(uuid "3e383d47-0792-4976-bc33-dc050d2cb37e")
 			(effects
@@ -23615,7 +23615,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R10"
-			(at 0.24892 -3.50012 -90)
+			(at 0.02 0.06 -90)
 			(layer "F.SilkS")
 			(uuid "7d91cad7-ddaf-4c25-a01a-e9326a11e9fb")
 			(effects
@@ -23771,7 +23771,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R1"
-			(at 0.24892 -3.50012 0)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "feeafaed-a97b-4a23-8c94-f8bf6abbc7de")
 			(effects
@@ -23927,7 +23927,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R2"
-			(at 0.24892 -3.50012 0)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "8ec4b018-5bf2-46fe-b101-3882f2f9e338")
 			(effects
@@ -24083,7 +24083,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R12"
-			(at 0.24892 -3.50012 180)
+			(at 0 0 180)
 			(layer "F.SilkS")
 			(uuid "fd29aca5-b9fb-47ed-a458-86372741d26a")
 			(effects
@@ -24395,7 +24395,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R26"
-			(at 0.24892 -3.50012 0)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "39de191b-9c2c-4f65-b416-5ed8110216b6")
 			(effects
@@ -24551,7 +24551,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R27"
-			(at 0.24892 -3.50012 180)
+			(at 0 0 180)
 			(layer "F.SilkS")
 			(uuid "c93515ef-2682-4f14-84c9-49f5fe5c66ca")
 			(effects
@@ -24707,7 +24707,7 @@
 		(descr "Through hole socket strip")
 		(tags "socket strip")
 		(property "Reference" "JP1"
-			(at 0 -5.1 -90)
+			(at -2.39 -0.06 0)
 			(layer "F.SilkS")
 			(uuid "2952f17e-a98a-4649-b04d-67a73ef5349e")
 			(effects
@@ -25137,7 +25137,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D11"
-			(at 0 2.54 0)
+			(at -0.43 0.03 0)
 			(layer "F.SilkS")
 			(uuid "cf0467d3-0bc2-4242-a8f3-5608970901e7")
 			(effects
@@ -25323,7 +25323,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D18"
-			(at 0 2.54 0)
+			(at -0.43 -0.02 0)
 			(layer "F.SilkS")
 			(uuid "f63d4436-d0f4-46d1-9aa1-00c9bd908d85")
 			(effects
@@ -25509,7 +25509,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D19"
-			(at 0 2.54 0)
+			(at -0.39 -0.01 0)
 			(layer "F.SilkS")
 			(uuid "75a9e74f-ffc6-4d49-9a30-b48b59f8a2d7")
 			(effects
@@ -25695,7 +25695,7 @@
 		(descr "Diode, DO-35,  SOD27, Horizontal, RM 10mm")
 		(tags "Diode, DO-35, SOD27, Horizontal, RM 10mm, 1N4148,")
 		(property "Reference" "D20"
-			(at 0 2.54 0)
+			(at -0.41 0.01 0)
 			(layer "F.SilkS")
 			(uuid "8d77e39c-e2d1-4f5e-bfaf-7b7b1c4eff51")
 			(effects
@@ -25881,7 +25881,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P36"
-			(at 0 -5.1 0)
+			(at -2.44 -0.3 90)
 			(layer "F.SilkS")
 			(uuid "fc2ab2ae-4cbe-4952-9aab-1852e6e85363")
 			(effects
@@ -26467,7 +26467,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P38"
-			(at 0 -5.1 0)
+			(at -2.28 -0.53 90)
 			(layer "F.SilkS")
 			(uuid "d05f07c5-bdc7-43d5-a88b-567bff994fcc")
 			(effects
@@ -26915,7 +26915,7 @@
 		(descr "LED 5mm - Lead pitch 100mil (2,54mm)")
 		(tags "LED led 5mm 5MM 100mil 2,54mm")
 		(property "Reference" "D21"
-			(at 0 -3.81 0)
+			(at -3.75 -2.66 0)
 			(layer "F.SilkS")
 			(uuid "988f6e1d-caf6-4ee1-8071-1dd6c3e26406")
 			(effects
@@ -27109,7 +27109,7 @@
 		(descr "LED 5mm - Lead pitch 100mil (2,54mm)")
 		(tags "LED led 5mm 5MM 100mil 2,54mm")
 		(property "Reference" "D22"
-			(at 0 -3.81 0)
+			(at -2.74 3.69 0)
 			(layer "F.SilkS")
 			(uuid "1e2b7904-9300-49b1-84d9-c4cf647648f6")
 			(effects
@@ -27303,7 +27303,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R29"
-			(at 0.24892 -3.50012 -90)
+			(at 0 0 -90)
 			(layer "F.SilkS")
 			(uuid "d862f8b2-c6d5-427b-b326-7a5e34aa5baa")
 			(effects
@@ -27459,7 +27459,7 @@
 		(descr "Resistor, Axial,  RM 10mm, 1/3W,")
 		(tags "Resistor, Axial, RM 10mm, 1/3W,")
 		(property "Reference" "R30"
-			(at 0.24892 -3.50012 90)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(uuid "1613d511-9ba5-422e-ab4c-cde86c8f2de0")
 			(effects
@@ -27615,7 +27615,7 @@
 		(descr "Through hole pin header")
 		(tags "pin header")
 		(property "Reference" "P40"
-			(at 0 -5.1 180)
+			(at 0.15 -2.58 180)
 			(layer "F.SilkS")
 			(uuid "03d91d35-16c3-4430-b5a9-3b2907092e66")
 			(effects
@@ -28291,6 +28291,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.048 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d342c5d2-f274-4be3-8863-a570ef26546d")
 			(effects
 				(font
@@ -28376,6 +28377,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.048 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3ff45a3a-ad99-44d8-ba4f-42ca2184704e")
 			(effects
 				(font
@@ -28461,6 +28463,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.048 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "a832b2a6-d007-47a2-9d84-554929614151")
 			(effects
 				(font
@@ -28546,6 +28549,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.048 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "270b0bff-f767-4c87-b343-678b75d022ac")
 			(effects
 				(font
@@ -28631,6 +28635,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.048 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "969a0344-4a90-4dd5-a5cb-114d51fcd9a8")
 			(effects
 				(font
@@ -28716,6 +28721,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.048 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "49d61715-4034-4bf6-9f65-8de0443bbff1")
 			(effects
 				(font
@@ -63822,7 +63828,7 @@
 		(descr "Electrolytic Capacitor, vertical, diameter 6,3mm, RM 2,5mm, radial,")
 		(tags "Electrolytic Capacitor, vertical, diameter 6,3mm, RM 2,5mm, Elko, Electrolytkondensator, Kondensator gepolt, Durchmesser 6,3mm, radial,")
 		(property "Reference" "C22"
-			(at 1.27 -5.08 -90)
+			(at -1.845 3.775 0)
 			(layer "F.SilkS")
 			(uuid "087ec590-aba6-4d2d-8b61-4c580b5af8c6")
 			(effects
@@ -63949,7 +63955,7 @@
 		(descr "Electrolytic Capacitor, vertical, diameter 6,3mm, RM 2,5mm, radial,")
 		(tags "Electrolytic Capacitor, vertical, diameter 6,3mm, RM 2,5mm, Elko, Electrolytkondensator, Kondensator gepolt, Durchmesser 6,3mm, radial,")
 		(property "Reference" "C31"
-			(at 1.27 -5.08 0)
+			(at -0.1 -3.82 0)
 			(layer "F.SilkS")
 			(uuid "316c475c-0cf6-4dbb-9af4-36ce7679cb0f")
 			(effects
@@ -64076,7 +64082,7 @@
 		(descr "Electrolytic Capacitor, vertical, diameter 6,3mm, RM 2,5mm, radial,")
 		(tags "Electrolytic Capacitor, vertical, diameter 6,3mm, RM 2,5mm, Elko, Electrolytkondensator, Kondensator gepolt, Durchmesser 6,3mm, radial,")
 		(property "Reference" "C32"
-			(at 1.27 -5.08 0)
+			(at -1.14 -3.63 0)
 			(layer "F.SilkS")
 			(uuid "2cbf4539-0143-49bb-8560-c665a93f517b")
 			(effects
@@ -64976,17 +64982,6 @@
 			)
 		)
 	)
-	(gr_text "1k"
-		(at 210.82 105.41 270)
-		(layer "F.SilkS")
-		(uuid "06825f3f-da71-40d1-99f2-1fc24050ee66")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-		)
-	)
 	(gr_text "3"
 		(at 119.38 107.95 0)
 		(layer "F.SilkS")
@@ -65736,7 +65731,7 @@
 		)
 	)
 	(gr_text "100uF"
-		(at 217.17 141.605 0)
+		(at 217.15 144.13 0)
 		(layer "F.SilkS")
 		(uuid "719795c9-94ae-4c06-a267-853040db55bb")
 		(effects
@@ -65846,7 +65841,7 @@
 		)
 	)
 	(gr_text "1k"
-		(at 213.36 105.41 270)
+		(at 208.39 111.48 0)
 		(layer "F.SilkS")
 		(uuid "7e60a0d6-ddf7-427d-b44a-2dce8e9b2cc9")
 		(effects
@@ -65879,7 +65874,7 @@
 		)
 	)
 	(gr_text "10k"
-		(at 172.085 59.055 0)
+		(at 172.06 56.66 0)
 		(layer "F.SilkS")
 		(uuid "8163a6fb-9001-4379-b1c7-7c8a178d3d15")
 		(effects
@@ -66473,7 +66468,7 @@
 		)
 	)
 	(gr_text "100uF"
-		(at 217.17 133.985 0)
+		(at 217.13 126.53 0)
 		(layer "F.SilkS")
 		(uuid "d78b982f-da68-4a8c-9e9d-9f998f7aa8b7")
 		(effects
@@ -66550,7 +66545,7 @@
 		)
 	)
 	(gr_text "Diode OR"
-		(at 202.565 93.98 0)
+		(at 202.21 94.3 0)
 		(layer "F.SilkS")
 		(uuid "dfa49650-12a7-4736-90d4-567209272939")
 		(effects
@@ -66583,7 +66578,7 @@
 		)
 	)
 	(gr_text "1k"
-		(at 179.705 55.245 0)
+		(at 187.44 55.24 0)
 		(layer "F.SilkS")
 		(uuid "e7372aa0-ca30-46ef-bf27-57bb5ac015b3")
 		(effects
@@ -66649,7 +66644,7 @@
 		)
 	)
 	(gr_text "40106"
-		(at 214.63 61.595 270)
+		(at 214.49 65.2 270)
 		(layer "F.SilkS")
 		(uuid "f0d13992-e33a-43b6-9cfa-a514abab4149")
 		(effects
