@@ -3,3 +3,5 @@
 kicad/logic_noise_playground-backups/
 
 kicad/rescue-backup/
+
+*.lck
