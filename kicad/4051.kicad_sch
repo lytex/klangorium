@@ -1259,7 +1259,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 64.77 113.03 0)
 			(effects
 				(font
@@ -1460,7 +1460,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 78.74 115.57 0)
 			(effects
 				(font
@@ -1598,7 +1598,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 82.55 118.11 0)
 			(effects
 				(font
@@ -1736,7 +1736,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 86.36 120.65 0)
 			(effects
 				(font

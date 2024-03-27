@@ -1916,7 +1916,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 124.46 69.85 0)
 			(effects
 				(font
@@ -2054,7 +2054,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 125.73 97.79 0)
 			(effects
 				(font
@@ -2192,7 +2192,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 120.65 76.2 0)
 			(effects
 				(font
@@ -2553,7 +2553,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 149.86 74.93 0)
 			(effects
 				(font
@@ -2628,7 +2628,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 109.22 72.39 0)
 			(effects
 				(font
@@ -2979,7 +2979,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF14JT10K0"
 			(at 93.98 53.34 0)
 			(effects
 				(font

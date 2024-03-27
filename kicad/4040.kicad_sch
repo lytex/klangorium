@@ -1067,7 +1067,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "CF18JT100K"
 			(at 111.76 80.01 0)
 			(effects
 				(font
