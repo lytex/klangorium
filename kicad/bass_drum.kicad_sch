@@ -4355,7 +4355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "elliot:Potentiometer_9mm_vertical_pcb_mount"
+		(property "Footprint" "logic_noise:PTV09A4025FB104"
 			(at 157.48 22.86 0)
 			(effects
 				(font
@@ -4381,7 +4381,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "PTV09A4025FB104"
 			(at 157.48 22.86 0)
 			(effects
 				(font
@@ -4433,7 +4433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "elliot:Potentiometer_9mm_vertical_pcb_mount"
+		(property "Footprint" "logic_noise:PTV09A4025FB104"
 			(at 156.21 40.64 0)
 			(effects
 				(font
@@ -4459,7 +4459,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "PTV09A4025FB104"
 			(at 156.21 40.64 0)
 			(effects
 				(font
