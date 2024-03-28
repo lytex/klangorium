@@ -9981,7 +9981,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "4610X-101-104LF "
 			(at 175.26 43.18 0)
 			(effects
 				(font
@@ -10077,7 +10077,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "4610X-101-105LF "
 			(at 175.26 66.04 0)
 			(effects
 				(font
