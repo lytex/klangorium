@@ -3163,7 +3163,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "NTE3144"
 			(at 204.47 57.15 0)
 			(effects
 				(font
@@ -3238,7 +3238,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" " NTE3145"
 			(at 204.47 64.77 0)
 			(effects
 				(font

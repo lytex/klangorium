@@ -2470,7 +2470,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "C322C104M5U5TA"
 			(at 25.4 78.74 0)
 			(effects
 				(font
