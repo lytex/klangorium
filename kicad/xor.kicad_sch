@@ -807,6 +807,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 121.92 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 121.92 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "87c54415-55f1-471a-9379-8ae746651709")
 		)
@@ -910,6 +928,24 @@
 			)
 		)
 		(property "manf#" "CD4070BE"
+			(at 121.92 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 121.92 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 121.92 68.58 0)
 			(effects
 				(font
@@ -1029,6 +1065,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 121.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 121.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "53129157-917d-459a-b895-800c7d2a5f48")
 		)
@@ -1132,6 +1186,24 @@
 			)
 		)
 		(property "manf#" "CD4070BE"
+			(at 121.92 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 121.92 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 121.92 92.71 0)
 			(effects
 				(font

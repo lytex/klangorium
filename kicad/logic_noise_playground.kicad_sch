@@ -5,6 +5,390 @@
 	(uuid "b9341db6-1cc2-4b11-8dd1-ce51623beade")
 	(paper "A4")
 	(lib_symbols
+		(symbol "logic_noise:SJ1-3524NG"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -10.16 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "SJ1-3524NG"
+				(at -10.16 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "CUI_SJ1-3524NG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "1.01"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer recommendation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "CUI"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SJ1-3524NG_0_0"
+				(rectangle
+					(start -12.573 -7.62)
+					(end 7.747 5.08)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.985 -5.08) (xy -6.985 -0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.985 -0.635) (xy -6.35 -0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 -0.635) (xy -5.715 -0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 2.54) (xy -6.35 -0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.715 -5.08) (xy -6.985 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.715 -0.635) (xy -5.715 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 -1.27) (xy -4.445 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 0) (xy -3.175 -1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -3.81) (xy -1.905 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -5.08) (xy -0.635 -3.81)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -5.08) (xy 0.635 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -2.54) (xy 3.81 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -7.62) (xy 10.16 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -5.08) (xy 3.81 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -2.54) (xy 3.81 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy -1.905 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 2.54) (xy -6.35 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -5.08) (xy 3.175 -3.81) (xy 4.445 -3.81) (xy 3.81 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 15.24 2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 -5.08 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 -2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "logic_noise_playground-rescue:CONN_01X02"
 			(pin_names
 				(offset 1.016) hide)
@@ -4756,311 +5140,6 @@
 				)
 			)
 		)
-		(symbol "logic_noise_playground-rescue:JACK_TRS_6PINS"
-			(pin_names
-				(offset 0.762)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "JACK_TRS_6PINS"
-				(at -1.27 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 2.54 -3.81 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 2.54 -3.81 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "JACK_TRS_6PINS_0_0"
-				(polyline
-					(pts
-						(xy 3.81 -5.08) (xy 3.81 -2.54) (xy 7.62 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 0) (xy 3.81 2.54) (xy 7.62 2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 5.08) (xy 3.81 7.62) (xy 7.62 7.62)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -8.89 5.08) (xy -7.62 3.81) (xy -6.35 5.08) (xy 7.62 5.08)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -6.35 0) (xy -5.08 1.27) (xy 1.27 -5.08) (xy 7.62 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "JACK_TRS_6PINS_0_1"
-				(rectangle
-					(start -11.43 5.08)
-					(end -10.16 -1.27)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0 1.27) (xy -1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -3.81) (xy 3.81 -5.08) (xy 5.08 -3.81) (xy 5.08 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy 3.81 0) (xy 5.08 1.27) (xy 5.08 1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 6.35) (xy 3.81 5.08) (xy 5.08 6.35) (xy 5.08 6.35)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 7.62 -6.35)
-					(end -10.16 8.89)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "JACK_TRS_6PINS_1_1"
-				(pin passive line
-					(at 10.16 5.08 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "T"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -5.08 180)
-					(length 2.54)
-					(name "R"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 7.62 180)
-					(length 2.54)
-					(name "SN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 2.54 180)
-					(length 2.54)
-					(name "TN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -2.54 180)
-					(length 2.54)
-					(name "RN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "logic_noise_playground-rescue:RR8"
 			(pin_names
 				(offset 1.016) hide)
@@ -5829,16 +5908,18 @@
 		(uuid "ff49c5ef-9927-4649-ac3e-b4305b7f584f")
 	)
 	(no_connect
-		(at 264.16 60.96)
-		(uuid "4c917fdc-192a-430b-8af9-790f55466812")
+		(at 264.16 68.58)
+		(uuid "d8bf1f2e-51a0-4de9-b150-728334c2d200")
 	)
-	(no_connect
-		(at 264.16 71.12)
-		(uuid "583ae187-8622-4e6c-8f07-b74df2c6688b")
-	)
-	(no_connect
-		(at 264.16 66.04)
-		(uuid "8dbc40f3-3062-410c-9775-50c8ed11e72b")
+	(wire
+		(pts
+			(xy 269.24 71.12) (xy 264.16 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00ef631f-2171-4144-94f4-b60f32fad2e9")
 	)
 	(wire
 		(pts
@@ -6332,16 +6413,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 73.66) (xy 276.86 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a74400f-ea7f-4081-9005-98f5462a9223")
-	)
-	(wire
-		(pts
 			(xy 166.37 57.15) (xy 166.37 54.61)
 		)
 		(stroke
@@ -6409,16 +6480,6 @@
 			(type default)
 		)
 		(uuid "53f426c8-2a11-4c9a-b191-3599f116b647")
-	)
-	(wire
-		(pts
-			(xy 269.24 68.58) (xy 264.16 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5413e4af-e553-4d7a-9650-8d0902d8ba22")
 	)
 	(wire
 		(pts
@@ -6612,6 +6673,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 60.96) (xy 276.86 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "701e0411-b84d-4c1c-88c5-b7764eaabfd9")
+	)
+	(wire
+		(pts
 			(xy 49.53 163.83) (xy 49.53 161.29)
 		)
 		(stroke
@@ -6669,16 +6740,6 @@
 			(type default)
 		)
 		(uuid "759fd711-d879-4cd7-96d3-df610d6703be")
-	)
-	(wire
-		(pts
-			(xy 269.24 60.96) (xy 269.24 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78b378c4-5e18-4c6c-8e40-9437416d2763")
 	)
 	(wire
 		(pts
@@ -6819,6 +6880,16 @@
 			(type default)
 		)
 		(uuid "85716383-d0f3-4ba3-a364-f1467eed1b36")
+	)
+	(wire
+		(pts
+			(xy 264.16 66.04) (xy 276.86 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "859ad7bf-75d7-4598-a516-629e316fcb39")
 	)
 	(wire
 		(pts
@@ -7059,16 +7130,6 @@
 			(type default)
 		)
 		(uuid "ac4f0fad-71e2-4806-9de1-914d37e944c2")
-	)
-	(wire
-		(pts
-			(xy 276.86 73.66) (xy 276.86 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ada9050d-7b50-41c3-a27d-cdacb625afe9")
 	)
 	(wire
 		(pts
@@ -7502,6 +7563,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 60.96) (xy 269.24 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6bcc565-8846-41ee-adc4-bab77a818f3b")
+	)
+	(wire
+		(pts
 			(xy 17.78 59.69) (xy 30.48 59.69)
 		)
 		(stroke
@@ -7663,7 +7734,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" " RPA0609101M025B"
+			(at 269.24 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 269.24 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 269.24 57.15 0)
 			(effects
 				(font
@@ -7740,7 +7829,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" " RPA0609101M025B"
+			(at 276.86 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 276.86 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 276.86 57.15 0)
 			(effects
 				(font
@@ -7815,7 +7922,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 67.31 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 67.31 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 67.31 38.1 0)
 			(effects
 				(font
@@ -7920,7 +8045,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 144.78 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 144.78 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 144.78 166.37 0)
 			(effects
 				(font
@@ -8049,7 +8192,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 125.73 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 125.73 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 125.73 40.64 0)
 			(effects
 				(font
@@ -8142,7 +8303,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 125.73 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 125.73 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 125.73 53.34 0)
 			(effects
 				(font
@@ -8235,7 +8414,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 190.5 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 190.5 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 190.5 96.52 0)
 			(effects
 				(font
@@ -8352,7 +8549,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 95.25 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 95.25 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 95.25 121.92 0)
 			(effects
 				(font
@@ -8439,7 +8654,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 26.67 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 26.67 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 26.67 34.29 0)
 			(effects
 				(font
@@ -8526,7 +8759,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 26.67 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 26.67 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 26.67 41.91 0)
 			(effects
 				(font
@@ -8613,7 +8864,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 26.67 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 26.67 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 26.67 116.84 0)
 			(effects
 				(font
@@ -8688,7 +8957,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 26.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 26.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 26.67 123.19 0)
 			(effects
 				(font
@@ -8763,7 +9050,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 26.67 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 26.67 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 26.67 129.54 0)
 			(effects
 				(font
@@ -8838,7 +9143,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 26.67 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 26.67 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 26.67 135.89 0)
 			(effects
 				(font
@@ -8913,7 +9236,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 53.34 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 53.34 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 53.34 116.84 0)
 			(effects
 				(font
@@ -8988,7 +9329,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 53.34 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 53.34 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 53.34 125.73 0)
 			(effects
 				(font
@@ -9063,7 +9422,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 135.89 132.08 0)
 			(effects
 				(font
@@ -9138,7 +9515,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 113.03 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 113.03 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 113.03 120.65 0)
 			(effects
 				(font
@@ -9213,7 +9608,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 26.67 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 26.67 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 26.67 71.12 0)
 			(effects
 				(font
@@ -9300,7 +9713,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 24.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 24.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 24.13 62.23 0)
 			(effects
 				(font
@@ -9387,7 +9818,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 92.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 92.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 92.71 74.93 0)
 			(effects
 				(font
@@ -9462,7 +9911,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 105.41 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 105.41 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 105.41 162.56 0)
 			(effects
 				(font
@@ -9540,7 +10007,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 92.71 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 92.71 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 92.71 40.64 0)
 			(effects
 				(font
@@ -9618,7 +10103,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 92.71 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 92.71 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 92.71 50.8 0)
 			(effects
 				(font
@@ -9696,7 +10199,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 161.29 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 161.29 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 161.29 87.63 0)
 			(effects
 				(font
@@ -9906,7 +10427,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 200.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 200.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 200.66 36.83 0)
 			(effects
 				(font
@@ -9982,6 +10521,24 @@
 			)
 		)
 		(property "manf#" "4610X-101-104LF "
+			(at 175.26 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 175.26 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 175.26 43.18 0)
 			(effects
 				(font
@@ -10086,6 +10643,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 175.26 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 175.26 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68b8e0a8-e4ad-44a2-88a1-6e2262ba6320")
 		)
@@ -10173,7 +10748,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 175.26 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 175.26 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 175.26 27.94 0)
 			(effects
 				(font
@@ -10266,7 +10859,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 175.26 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 175.26 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 175.26 49.53 0)
 			(effects
 				(font
@@ -10359,7 +10970,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 210.82 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 210.82 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 210.82 99.06 0)
 			(effects
 				(font
@@ -10440,7 +11069,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 257.81 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 257.81 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 257.81 105.41 0)
 			(effects
 				(font
@@ -10459,93 +11106,6 @@
 			(project "logic_noise_playground"
 				(path "/b9341db6-1cc2-4b11-8dd1-ce51623beade"
 					(reference "P24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "logic_noise_playground-rescue:JACK_TRS_6PINS")
-		(at 254 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005553c481")
-		(property "Reference" "J1"
-			(at 254 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "JACK_TRS_6PINS"
-			(at 252.73 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "elliot:stereo_jack"
-			(at 256.54 72.39 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 256.54 72.39 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 254 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" ""
-			(at 254 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9f703092-e4a4-4067-b7bd-84cc2a496c8c")
-		)
-		(pin "2"
-			(uuid "847ec92c-bb91-4c7f-b7c2-e96078ed605c")
-		)
-		(pin "3"
-			(uuid "4c060ce9-0fc3-41bf-a259-74b625558dc7")
-		)
-		(pin "4"
-			(uuid "ca32b35c-4c8f-44f3-a365-82307117208c")
-		)
-		(pin "5"
-			(uuid "6a43a56b-02c3-479a-b84d-c411e462b04a")
-		)
-		(pin "6"
-			(uuid "f0f57c8c-002b-4968-89af-df8805acc562")
-		)
-		(instances
-			(project "logic_noise_playground"
-				(path "/b9341db6-1cc2-4b11-8dd1-ce51623beade"
-					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -10665,7 +11225,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 123.19 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 123.19 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 123.19 85.09 0)
 			(effects
 				(font
@@ -10806,7 +11384,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 196.85 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 196.85 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 196.85 43.18 0)
 			(effects
 				(font
@@ -10887,7 +11483,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 257.81 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 257.81 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 257.81 41.91 0)
 			(effects
 				(font
@@ -10968,7 +11582,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 257.81 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 257.81 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 257.81 119.38 0)
 			(effects
 				(font
@@ -11043,7 +11675,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 210.82 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 210.82 113.03 0)
 			(effects
 				(font
@@ -11124,7 +11774,25 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" ""
+		(property "manf#" "Pines"
+			(at 210.82 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 210.82 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
 			(at 210.82 129.54 0)
 			(effects
 				(font
@@ -11143,6 +11811,110 @@
 			(project "logic_noise_playground"
 				(path "/b9341db6-1cc2-4b11-8dd1-ce51623beade"
 					(reference "P40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "logic_noise:SJ1-3524NG")
+		(at 248.92 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5c4830b-8428-41e4-a744-ebc5f81bd759")
+		(property "Reference" "J2"
+			(at 247.7135 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SJ1-3524NG"
+			(at 247.7135 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "logic_noise:CUI_SJ1-3524NG"
+			(at 248.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "1.01"
+			(at 248.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 248.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 248.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "Pines"
+			(at 248.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9fa9f8f3-7525-488e-9ffe-2e038310bda4")
+		)
+		(pin "4"
+			(uuid "0fb1d094-f53e-4436-8550-4e7f351461ce")
+		)
+		(pin "1"
+			(uuid "3490bfb7-cd33-469b-a384-47adc581c6f9")
+		)
+		(pin "2"
+			(uuid "2c9ed679-30d0-4c62-84f7-7ec58f13232e")
+		)
+		(instances
+			(project "logic_noise_playground"
+				(path "/b9341db6-1cc2-4b11-8dd1-ce51623beade"
+					(reference "J2")
 					(unit 1)
 				)
 			)
