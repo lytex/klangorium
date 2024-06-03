@@ -17217,7 +17217,7 @@
 		(descr "12101A2 1210AX9 12A0B85 12A0BKR  Potentiometer, horizontal, Alps RK163 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf")
 		(tags "Potentiometer horizontal Alps RK163 Dual")
 		(property "Reference" "RV5"
-			(at -0.000001 15.199999 270)
+			(at -0.000001 15.199999 -90)
 			(layer "F.SilkS")
 			(uuid "3eddaa67-44b1-4571-805c-f7b1b6847cd1")
 			(effects
@@ -17228,7 +17228,7 @@
 			)
 		)
 		(property "Value" "DUAL_POT"
-			(at 0 -5.2 270)
+			(at 0 -5.2 -90)
 			(layer "F.Fab")
 			(uuid "2194d941-ca43-4ec1-a5ba-8ccb2a724ebd")
 			(effects
@@ -17532,7 +17532,7 @@
 			(uuid "b8a8d989-3428-4d0c-86f8-53907ef4c214")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.25 5 270)
+			(at 2.25 5 -90)
 			(layer "F.Fab")
 			(uuid "da4560cf-7dbd-4252-b50b-de8458c6de60")
 			(effects
