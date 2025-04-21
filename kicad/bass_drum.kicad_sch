@@ -2429,7 +2429,6 @@
 	(hierarchical_label "DrumOut"
 		(shape output)
 		(at 224.79 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2441,7 +2440,6 @@
 	(hierarchical_label "Buffer_B_Out"
 		(shape output)
 		(at 176.53 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2453,7 +2451,6 @@
 	(hierarchical_label "OD_A_IN"
 		(shape input)
 		(at 198.12 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2465,7 +2462,6 @@
 	(hierarchical_label "Buffer_A_In"
 		(shape input)
 		(at 135.89 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2477,7 +2473,6 @@
 	(hierarchical_label "OD_A_OUT"
 		(shape output)
 		(at 242.57 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2489,7 +2484,6 @@
 	(hierarchical_label "Drum_Pulse"
 		(shape input)
 		(at 30.48 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2501,7 +2495,6 @@
 	(hierarchical_label "OD_B_IN"
 		(shape input)
 		(at 198.12 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2513,7 +2506,6 @@
 	(hierarchical_label "Buffer_A_Out"
 		(shape output)
 		(at 176.53 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2525,7 +2517,6 @@
 	(hierarchical_label "Buffer_B_In"
 		(shape input)
 		(at 137.16 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2537,7 +2528,6 @@
 	(hierarchical_label "OD_B_OUT"
 		(shape output)
 		(at 245.11 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -2618,6 +2608,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 104.14 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 104.14 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 104.14 72.39 0)
 			(effects
 				(font
@@ -2721,6 +2729,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 137.16 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 137.16 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27b0c0c6-9358-44d8-a1c8-5f1a25d7f1ab")
 		)
@@ -2806,6 +2832,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 120.65 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 120.65 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 120.65 78.74 0)
 			(effects
 				(font
@@ -3038,6 +3082,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 120.65 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 120.65 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "a8665d93-adca-4053-9d9a-743f2294950b")
 		)
@@ -3159,6 +3221,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 181.61 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 181.61 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 181.61 123.19 0)
 			(effects
 				(font
@@ -3296,6 +3376,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 181.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 181.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f08a6233-28e1-4d4b-b477-a261551ab911")
 		)
@@ -3381,6 +3479,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 158.75 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 158.75 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 158.75 123.19 0)
 			(effects
 				(font
@@ -3484,6 +3600,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 180.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 180.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fdd276b4-fa83-4438-8590-44441ebfd33c")
 		)
@@ -3569,6 +3703,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 156.21 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 156.21 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 156.21 31.75 0)
 			(effects
 				(font
@@ -3706,6 +3858,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 156.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 156.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "e84febed-3af8-4666-9c23-6aba00be3e42")
 		)
@@ -3835,6 +4005,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 219.71 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 219.71 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "05efa206-5c34-48fa-a0ab-49bd76c72d8c")
 		)
@@ -3956,6 +4144,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 219.71 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 219.71 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 219.71 80.01 0)
 			(effects
 				(font
@@ -4095,6 +4301,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 115.57 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 115.57 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "edc256f4-ac0d-4466-b696-6c7d476af719")
 		)
@@ -4190,6 +4414,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 123.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 123.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f79be3f-a94a-4462-95cc-5427fb683d26")
 		)
@@ -4275,6 +4517,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 53.34 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 53.34 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 53.34 80.01 0)
 			(effects
 				(font
@@ -4378,6 +4638,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 40.64 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 40.64 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ba43e8c3-7b55-4c19-859a-8cef81daa6c8")
 		)
@@ -4463,6 +4741,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 63.5 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 63.5 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 63.5 71.12 0)
 			(effects
 				(font
@@ -4627,6 +4923,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 119.38 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 119.38 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a23dc92f-4fc7-460f-a31d-48ea4f959e08")
 		)
@@ -4732,6 +5046,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 157.48 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 157.48 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a457cab-c18b-4c21-9c56-fc4bca321d35")
 		)
@@ -4820,6 +5152,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 156.21 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 156.21 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 156.21 40.64 0)
 			(effects
 				(font

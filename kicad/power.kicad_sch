@@ -1228,7 +1228,6 @@
 	(hierarchical_label "gnd"
 		(shape output)
 		(at 109.22 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1240,7 +1239,6 @@
 	(hierarchical_label "vcc"
 		(shape output)
 		(at 109.22 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1581,6 +1579,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 157.48 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 157.48 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc8fc81b-bf2e-4847-bee1-f92e2f09c76a")
 		)
@@ -1668,6 +1684,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 152.4 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 152.4 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 152.4 105.41 0)
 			(effects
 				(font
@@ -1771,6 +1805,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "00669cb2-6230-4b52-8de3-9157ba99cfe5")
 		)
@@ -1858,6 +1910,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 142.24 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 142.24 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 142.24 105.41 0)
 			(effects
 				(font
@@ -1961,6 +2031,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 137.16 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 137.16 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f571212-d648-4adb-886f-77953df24379")
 		)
@@ -2048,6 +2136,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 132.08 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 132.08 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 132.08 105.41 0)
 			(effects
 				(font
@@ -2151,6 +2257,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 127 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 127 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76e631d7-aca5-4c29-835b-81e4823058ed")
 		)
@@ -2238,6 +2362,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 116.84 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 116.84 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 116.84 105.41 0)
 			(effects
 				(font
@@ -2339,6 +2481,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 182.88 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 182.88 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e47b4f09-f96e-4052-986e-04eeb41bf399")
 		)
@@ -2426,6 +2586,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 121.92 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 121.92 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 121.92 105.41 0)
 			(effects
 				(font

@@ -938,7 +938,6 @@
 	(hierarchical_label "X4"
 		(shape bidirectional)
 		(at 81.28 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -950,7 +949,6 @@
 	(hierarchical_label "X1"
 		(shape bidirectional)
 		(at 81.28 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -962,7 +960,6 @@
 	(hierarchical_label "Inhibit"
 		(shape bidirectional)
 		(at 59.69 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -974,7 +971,6 @@
 	(hierarchical_label "X0"
 		(shape bidirectional)
 		(at 81.28 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -986,7 +982,6 @@
 	(hierarchical_label "B"
 		(shape bidirectional)
 		(at 76.2 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -998,7 +993,6 @@
 	(hierarchical_label "X5"
 		(shape bidirectional)
 		(at 81.28 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1010,7 +1004,6 @@
 	(hierarchical_label "X3"
 		(shape bidirectional)
 		(at 81.28 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1022,7 +1015,6 @@
 	(hierarchical_label "A"
 		(shape bidirectional)
 		(at 76.2 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1034,7 +1026,6 @@
 	(hierarchical_label "X2"
 		(shape bidirectional)
 		(at 81.28 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1046,7 +1037,6 @@
 	(hierarchical_label "X7"
 		(shape bidirectional)
 		(at 81.28 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1058,7 +1048,6 @@
 	(hierarchical_label "C"
 		(shape bidirectional)
 		(at 76.2 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1070,7 +1059,6 @@
 	(hierarchical_label "X"
 		(shape bidirectional)
 		(at 127 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1082,7 +1070,6 @@
 	(hierarchical_label "X6"
 		(shape bidirectional)
 		(at 81.28 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1161,6 +1148,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 106.68 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 106.68 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 106.68 93.98 0)
 			(effects
 				(font
@@ -1296,6 +1301,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 64.77 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 64.77 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 64.77 113.03 0)
 			(effects
 				(font
@@ -1523,6 +1546,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 78.74 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 78.74 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9eafb874-415e-4231-8100-e962dcd29f1f")
 		)
@@ -1679,6 +1720,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 82.55 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2117090f-34a7-449b-8a8f-a338d0a343ba")
 		)
@@ -1827,6 +1886,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 86.36 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 86.36 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 86.36 120.65 0)
 			(effects
 				(font

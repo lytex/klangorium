@@ -800,7 +800,6 @@
 	(hierarchical_label "Q5"
 		(shape output)
 		(at 137.16 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -812,7 +811,6 @@
 	(hierarchical_label "Q2"
 		(shape output)
 		(at 137.16 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -824,7 +822,6 @@
 	(hierarchical_label "Clock"
 		(shape input)
 		(at 52.07 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -836,7 +833,6 @@
 	(hierarchical_label "ClockEnable"
 		(shape input)
 		(at 73.66 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -848,7 +844,6 @@
 	(hierarchical_label "Q7"
 		(shape output)
 		(at 137.16 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -860,7 +855,6 @@
 	(hierarchical_label "Q3"
 		(shape output)
 		(at 137.16 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -872,7 +866,6 @@
 	(hierarchical_label "Q0"
 		(shape output)
 		(at 137.16 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -884,7 +877,6 @@
 	(hierarchical_label "Q9"
 		(shape output)
 		(at 137.16 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -896,7 +888,6 @@
 	(hierarchical_label "Q6"
 		(shape output)
 		(at 137.16 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -908,7 +899,6 @@
 	(hierarchical_label "Q1"
 		(shape output)
 		(at 137.16 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -920,7 +910,6 @@
 	(hierarchical_label "Q4"
 		(shape output)
 		(at 137.16 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -932,7 +921,6 @@
 	(hierarchical_label "Reset"
 		(shape input)
 		(at 93.98 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -944,7 +932,6 @@
 	(hierarchical_label "Q8"
 		(shape output)
 		(at 137.16 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -1023,6 +1010,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 113.03 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 113.03 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 113.03 93.98 0)
 			(effects
 				(font
@@ -1158,6 +1163,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 82.55 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 82.55 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 82.55 87.63 0)
 			(effects
 				(font
@@ -1322,6 +1345,24 @@
 				(hide yes)
 			)
 		)
+		(property "Orden" "99"
+			(at 95.25 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
+			(at 95.25 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5cd8f0e9-132a-4a1a-b47f-eed063791da5")
 		)
@@ -1470,6 +1511,24 @@
 			)
 		)
 		(property "STANDARD" ""
+			(at 55.88 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Orden" "99"
+			(at 55.88 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comentarios" ""
 			(at 55.88 96.52 0)
 			(effects
 				(font
